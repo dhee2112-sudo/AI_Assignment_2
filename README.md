@@ -1,8 +1,5 @@
 # AI Assignment 2  
 Course: Artificial Intelligence  
-Student Name:Sannysetty Dheemanth
-ROLL NO: SE24UCSE113  
-
  Contents of This Repository
 
 This assignment includes implementations of fundamental AI concepts:
