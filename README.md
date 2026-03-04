@@ -32,7 +32,7 @@ Files:
 
 
 Concepts Covered:
-- Uninformed Search (BFS, DFS)
+- BFS, DFS
 - Simple Reflex Agent
 - Turing Test
 - CAPTCHA
