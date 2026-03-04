@@ -33,8 +33,6 @@ Files:
 
 Concepts Covered:
 - Uninformed Search (BFS, DFS)
-- State Space Representation
-- Problem Solving Agents
 - Simple Reflex Agent
 - Turing Test
 - CAPTCHA
